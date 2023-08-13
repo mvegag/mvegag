@@ -17,15 +17,9 @@ Soy Economista y estudiante de últimos semestres de Estadística, mis intereses
 - :collision: Desarrollar redes neuronales y métodos de inteligencia artifical.
 - :white_square_button: Investigar acerca de la interpretabilidad de los algoritmos de caja negra.
 - :movie_camera: En mis tiempos libres me gusta aprender de cine. [![Letterbox Badge](https://img.shields.io/badge/letterboxd-black?style=flat&logo=letterboxd&logoColor=white)](https://letterboxd.com/matiu/)
-- :email: Para contacto laboral [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mateo-hasane-vega-garcia-93481b170/)
+- :email: Para contacto laboral: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mateo-hasane-vega-garcia-93481b170/)
 
 --- 
-
-### :writing_hand: Mi página:
-
-- [Rpubs](https://rpubs.com/Matiu9714)
-
----
 
 ### :hammer_and_wrench: Algunas herramientas y tecnologias que manejo:
 
@@ -42,6 +36,12 @@ Soy Economista y estudiante de últimos semestres de Estadística, mis intereses
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### :writing_hand: Mi página:
+
+- [Rpubs](https://rpubs.com/Matiu9714)
 
 ---
 
