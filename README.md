@@ -17,6 +17,7 @@ Soy Economista y estudiante de últimos semestres de Estadística, mis intereses
 - :collision: Desarrollar redes neuronales y métodos de inteligencia artifical.
 - :white_square_button: Investigar acerca de la interpretabilidad de los algoritmos de caja negra.
 - :movie_camera: En mis tiempos libres me gusta aprender de cine. [![Letterbox Badge](https://img.shields.io/badge/letterboxd-black?style=flat&logo=letterboxd&logoColor=white)](https://letterboxd.com/matiu/)
+- :sunglasses: Mi perfil de Kaggle donde participo en diferentes competencias: [![Kaggle Badge](https://img.shields.io/badge/Kaggle-grey?style=flat&logo=Kaggle&logoColor=white)](https://letterboxd.com/matiu/)
 - :email: Para contacto laboral: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mateo-hasane-vega-garcia-93481b170/)
 
 --- 
