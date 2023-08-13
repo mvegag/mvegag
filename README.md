@@ -45,6 +45,16 @@ Soy Economista y estudiante de últimos semestres de Estadística, mis intereses
 
 ---
 
+### Links a repositorios:
+
+| Notas de libros  |   Proyectos     |  Trabajo |
+|----------|:-------------:|------:|
+| [Hands on machine learning with Scikit, Keras and Tensorflow](https://github.com/mvegag/Machine-learning) | [Feature engineering](https://github.com/mvegag/Feature_engineering)  |  |
+| [R for Data science](https://github.com/mvegag/R4DS) |      |    |
+|  |  |  |
+
+---
+
 ### :star: Estadisticas:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mvegag&theme=black-ice&mode=weekly)](https://git.io/streak-stats)
