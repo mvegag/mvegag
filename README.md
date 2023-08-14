@@ -50,7 +50,7 @@ Soy Economista y estudiante de últimos semestres de Estadística, mis intereses
 
 | Notas de libros  |   Proyectos     |  Trabajo |
 |----------|:-------------:|------:|
-| [Hands on machine learning with Scikit, Keras and Tensorflow](https://github.com/mvegag/Machine-learning) | [Feature engineering](https://github.com/mvegag/Feature_engineering)  |  |
+| [Hands on machine learning with Scikit, Keras and Tensorflow](https://github.com/mvegag/Hands-On_Machine_Learning/tree/main) | [Feature engineering](https://github.com/mvegag/Feature_engineering)  |  |
 | [R for Data science](https://github.com/mvegag/R4DS) |      |    |
 |  |  |  |
 
