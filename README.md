@@ -51,7 +51,7 @@ Soy Economista y estudiante de últimos semestres de Estadística, mis intereses
 | Notas de libros  |   Proyectos     |  Trabajo | Notas de cursos |
 |:-------------:|:-------------:|:-------------:|:-------------:|
 | [Hands on machine learning with Scikit, Keras and Tensorflow](https://github.com/mvegag/Hands-On_Machine_Learning/tree/main) | [Feature engineering](https://github.com/mvegag/Feature_engineering)  |  | [Python for everybody](https://github.com/mvegag/Python-for-everyone) |
-| [R for Data science](https://github.com/mvegag/R4DS)| [Agrupamiento clientes / Predicción precio vehiculos](https://github.com/mvegag/Agrupamiento-clientes-Prediccion-precio-vehiculos) |    |
+| [R for Data science](https://github.com/mvegag/R4DS)| [Agrupamiento clientes / Predicción precio vehiculos](https://github.com/mvegag/Agrupamiento-clientes-Prediccion-precio-vehiculos) |    | [Applied data science with python](https://github.com/mvegag/Applied-data-science-with-python)
 | [Mastering Shiny](https://github.com/mvegag/Mastering_Shiny)|     |  | |
 | [Ggplot2](https://github.com/mvegag/ggplot2) | | | |  
 | [Machine learning with Pytorch](https://github.com/mvegag/Machine_learning_with_pytorch)| | | |
